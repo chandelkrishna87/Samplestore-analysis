@@ -40,4 +40,5 @@ The dataset used in this project is the **Sample Superstore Dataset**, sourced f
 
 **Source:** Kaggle – Sample Superstore Dataset
 
-**Dataset Link:** [Insert your Kaggle dataset URL here]
+
+dashboard-[https://github.com/chandelkrishna87/Samplestore-analysis/blob/main/dasboard%20ss.jpeg]
